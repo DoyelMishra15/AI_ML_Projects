@@ -46,7 +46,7 @@ This project analyzes employee messages to assess **sentiment, engagement, and f
 ---
 
 ## 📁 Repository Structure
-
+```
 DoyelMishra_AI-project-submission/
 │
 ├─ Employee_Sentiment_Analysis_Project.ipynb # Main notebook
@@ -58,7 +58,7 @@ DoyelMishra_AI-project-submission/
 ├─ requirements.txt # Dependencies
 ├─ README.md # This file
 └─ .gitignore # Ignore raw data & caches
-
+```
 
 ---
 
