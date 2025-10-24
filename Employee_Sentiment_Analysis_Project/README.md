@@ -47,7 +47,7 @@ This project analyzes employee messages to assess **sentiment, engagement, and f
 
 ## 📁 Repository Structure
 ```
-DoyelMishra_AI-project-submission/
+Employee_Sentiment_Analysis_Project/
 │
 ├─ Employee_Sentiment_Analysis_Project.ipynb # Main notebook
 ├─ processed_data.pkl # Preprocessed dataset
