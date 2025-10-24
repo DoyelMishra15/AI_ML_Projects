@@ -54,7 +54,6 @@ DoyelMishra_AI-project-submission/
 ├─ tfidf_vectorizer.pkl # TF-IDF vectorizer
 ├─ sentiment_output.csv # Sentiment-labeled messages
 ├─ eda_summary.csv # EDA summary
-├─ visualizations/ # Charts & graphs
 ├─ requirements.txt # Dependencies
 ├─ README.md # This file
 └─ .gitignore # Ignore raw data & caches
