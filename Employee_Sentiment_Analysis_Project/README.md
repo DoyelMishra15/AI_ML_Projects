@@ -92,14 +92,17 @@ DoyelMishra_AI-project-submission/
 
 ```bash
 git clone https://github.com/your-username/AI_ML_Projects.git
-cd DoyelMishra_AI-project-submission```
+cd DoyelMishra_AI-project-submission
+```
 
 2. Install dependencies:
 ```bash
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 3. Open the Jupyter Notebook:
 ```bash
-jupyter notebook Employee_Sentiment_Analysis_Project.ipynb```
+jupyter notebook Employee_Sentiment_Analysis_Project.ipynb
+```
 
 4. Run the notebook sequentially. All results are reproducible using the included processed data files.
